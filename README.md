@@ -1,4 +1,4 @@
-# B3
+B3 BRAMSBioBox: Developing an Open Research Platform for Audio and Biosignals Monitoring
 # Introduction
 
 ## Context
