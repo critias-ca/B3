@@ -1,4 +1,35 @@
-# B3 BRAMSBioBox: Developing an Open Research Platform for Audio and Biosignals Monitoring
+# BRAMSBioBox: Developing an Open Research Platform for Audio and Biosignals Monitoring
+
+## Authors
+
+- Floris van Vugt  
+  International Laboratory for Brain, Music and Sound Research (BRAMS), Montréal, Canada  
+  Département de Psychologie, Université de Montréal, Montréal, Canada  
+  Center for Research on the Brain, Language and Music (CRBLM), Montréal, Canada  
+  [floris.van.vugt@umontreal.ca](mailto:floris.van.vugt@umontreal.ca)
+
+- Valentin Pintat  
+  École de technologie supérieure, Montréal, Canada  
+  [vpintat@critias.ca](mailto:vpintat@critias.ca)
+
+- Dawn Merrett  
+  International Laboratory for Brain, Music and Sound Research (BRAMS), Montréal, Canada  
+  Département de Psychologie, Université de Montréal, Montréal, Canada  
+  Center for Research on the Brain, Language and Music (CRBLM), Montréal, Canada  
+  [dawnmerrett@gmail.com](mailto:dawnmerrett@gmail.com)
+
+- Simone Dalla Bella  
+  International Laboratory for Brain, Music and Sound Research (BRAMS), Montréal, Canada  
+  Département de Psychologie, Université de Montréal, Montréal, Canada  
+  Center for Research on the Brain, Language and Music (CRBLM), Montréal, Canada  
+  [simone.dalla.bella@umontreal.ca](mailto:simone.dalla.bella@umontreal.ca)
+
+- Jérémie Voix  
+  International Laboratory for Brain, Music and Sound Research (BRAMS), Montréal, Canada  
+  École de technologie supérieure, Montréal, Canada  
+  Center for Research on the Brain, Language and Music (CRBLM), Montréal, Canada  
+  [jeremie.voix@etsmtl.ca](mailto:jeremie.voix@etsmtl.ca)
+
 ## Introduction
 
 ### Context
