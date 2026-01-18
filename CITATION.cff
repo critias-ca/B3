@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following article."
+title: "BRAMSBioBox"
+authors:
+  - family-names: "van Vugt"
+    given-names: "Floris"
+  - family-names: "Pintat"
+    given-names: "Valentin"
+  - family-names: "Merrett"
+    given-names: "Dawn"
+  - family-names: "Dalla Bella"
+    given-names: "Simone"
+  - family-names: "Voix"
+    given-names: "Jérémie"
+type: article
+journal: "Canadian Acoustics"
+volume: 50
+issue: 3
+year: 2023
+month: 9
+start: 60
+end: 61
+url: "https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824"
+abstract: >
+  Over the recent years, researchers in various areas ranging from music neuroscience to cognitive psychology
+  have been interested in understanding how music can be "embodied". To accelerate such research, a comprehensive
+  hardware and software platform has been recently developed. Such platform, nicknamed "BRAMSBioBox", is featuring
+  off-the-shelf electronic components and open-source data acquisition and synchronisation stacks. The current
+  capabilities of the BRAMSBioBox will be demonstrated and illustrative research projects will be presented in
+  various domains including non-musical ones.
