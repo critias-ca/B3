@@ -9,7 +9,7 @@
   [floris.van.vugt@umontreal.ca](mailto:floris.van.vugt@umontreal.ca)
 
 - Valentin Pintat  
-  École de technologie supérieure, Montréal, Canada  
+  École de technologie supérieure (ÉTS), Montréal, Canada  
   [vpintat@critias.ca](mailto:vpintat@critias.ca)
 
 - Dawn Merrett  
@@ -26,7 +26,7 @@
 
 - Jérémie Voix  
   International Laboratory for Brain, Music and Sound Research (BRAMS), Montréal, Canada  
-  École de technologie supérieure, Montréal, Canada  
+  École de technologie supérieure (ÉTS), Montréal, Canada  
   Center for Research on the Brain, Language and Music (CRBLM), Montréal, Canada  
   [jeremie.voix@etsmtl.ca](mailto:jeremie.voix@etsmtl.ca)
 
@@ -71,7 +71,8 @@ The potential research applications for this device are many. For example, in it
 The BRAMSBioBox device design blueprint as well as all code that will be developed will be made available freely on GitHub, and all relevant documentation will be made available at [BioARP website](https://bioarp.org) that is also a gateway hub for any future commercial offer of such open hardware & software platform for the research community.
 
 ## Acknowledgments
-This work was supported by the Centre for Research on Brain, Language and Music (CRBLM) through a 2022 Research Incubator Award (RIA) to Prof. Dr Floris van Vugt, Prof. Simone Dalla Bella, and Prof. Jérémie Voix. The authors gratefully acknowledge Alexandre Demczuk and Elia Mélé (ÉTS interns) for their contributions supported by the CRBLM RIA, and Dhairya Shah (ÉTS intern) supported by the MITACS Globalink program.
+The original work was supported by the Centre for Research on Brain, Language and Music (CRBLM) through a 2022 Research Incubator Award (RIA) to Prof. Dr Floris van Vugt, Prof. Simone Dalla Bella, and Prof. Jérémie Voix. The authors gratefully acknowledge Alexandre Demczuk and Elia Mélé (ÉTS interns) for their contributions supported by the CRBLM RIA, and Dhairya Shah (ÉTS intern) supported by the MITACS Globalink program. Additional work was carried out in 2024–2025 by Mohammed Raki (M.Sc.A. student at ÉTS), with additional financial support from CRBLM.
+
 
 [^1]: Bradley, M. M., & Lang, P. J. (2000). Affective reactions to acoustic stimuli.
 [^2]: Tschacher, W., Rees, G. M., & Ramseyer, F. (2020). Nonverbal synchrony and affect in dyadic interactions.
