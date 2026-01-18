@@ -86,3 +86,25 @@ This work was supported by the Centre for Research on Brain, Language and Music 
 [^10]: Blum, J., et al. (2021). Laboratory Streaming Layer: A unified framework for measuring time delays.
 [^11]: Schultz, S. E., et al. (2016). Validation of physiological measurements in a group setting.
 [^12]: Van Vugt, F. T., et al. (2020). Comparing physiological synchrony across devices.
+
+## How to cite
+
+If you use **BRAMSBioBox** in your research or project, please cite the following article:
+
+### APA
+van Vugt, F., Pintat, V., Merrett, D., Dalla Bella, S., & Voix, J. (2023). *Developing an open research platform for audio synchronization and data acquisition*. **Canadian Acoustics, 50**(3), 60–61. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824
+
+### BibTeX
+```bibtex
+@article{vanVugt2023BRAMSBioBox,
+  title   = {Developing an open research platform for audio synchronization and data acquisition},
+  author  = {van Vugt, Floris and Pintat, Valentin and Merrett, Dawn and Dalla Bella, Simone and Voix, J{\'e}r{\'e}mie},
+  journal = {Canadian Acoustics},
+  year    = {2023},
+  volume  = {50},
+  number  = {3},
+  pages   = {60--61},
+  month   = sep,
+  url     = {https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824}
+}
+
