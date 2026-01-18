@@ -72,7 +72,7 @@ The BRAMSBioBox device design blueprint as well as all code that will be develop
 
 ## Acknowledgments
 
-This work was supported by the Centre for Research on Brain, Language and Music (CRBLM) Research Incubator Award (RIA). The authors thank Mr. Dhairya Shah, intern at ÉTS sponsored by the MITACS Globalink program, as well as Mrs. Alexandre Demczuk and Elia Mélé, interns at ÉTS, for their work sponsored by the CRBLM IRA.
+This work was supported by the Centre for Research on Brain, Language and Music (CRBLM) through a 2022 Research Incubator Award (RIA) awarded to Prof. Dr van Vugt, Prof. Dalla Bella, and Prof. Voix. The authors would like to thank Mrs. Alexandre Demczuk and Elia Mélé, interns at ÉTS, for their work sponsored by the CRBLM IRA, as well as Mr. Dhairya Shah, intern for Prof. Voix at ÉTS and sponsored by the MITACS Globalink program.
 
 [^1]: Bradley, M. M., & Lang, P. J. (2000). Affective reactions to acoustic stimuli.
 [^2]: Tschacher, W., Rees, G. M., & Ramseyer, F. (2020). Nonverbal synchrony and affect in dyadic interactions.
@@ -94,6 +94,10 @@ If you use **BRAMSBioBox** in your research or project, please cite the followin
 ### APA
 van Vugt, F., Pintat, V., Merrett, D., Dalla Bella, S., & Voix, J. (2023). *Developing an open research platform for audio synchronization and data acquisition*. **Canadian Acoustics, 50**(3), 60–61. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824
 
+Software / Repository
+
+Voix, J., van Vugt, F., Pintat, V., Merrett, D., & Dalla Bella, S. (2023). BRAMSBioBox [Software]. GitHub. (Accessed: YYYY-MM-DD). https://github.com//critias-ca/B3
+
 ### BibTeX
 ```bibtex
 @article{vanVugt2023BRAMSBioBox,
@@ -106,5 +110,12 @@ van Vugt, F., Pintat, V., Merrett, D., Dalla Bella, S., & Voix, J. (2023). *Deve
   pages   = {60--61},
   month   = sep,
   url     = {https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824}
+}
+@software{BRAMSBioBox_software,
+  title  = {BRAMSBioBox},
+  author = {Voix, Jérémie and van Vugt, Floris and Pintat, Valentin and Merrett, Dawn and Dalla Bella, Simone},
+  year   = {2023},
+  url    = {https://github.com/<ORG>/<REPO>},
+  note   = {Accessed: YYYY-MM-DD}
 }
 
