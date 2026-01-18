@@ -89,12 +89,12 @@ This work was supported by the Centre for Research on Brain, Language and Music 
 
 ## How to cite
 
-If you use **BRAMSBioBox** in your research or project, please cite the following article:
+If you use **BRAMSBioBox** in your research or project, please cite the following article and/or repository:
 
 ### APA
 van Vugt, F., Pintat, V., Merrett, D., Dalla Bella, S., & Voix, J. (2023). *Developing an open research platform for audio synchronization and data acquisition*. **Canadian Acoustics, 50**(3), 60–61. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3824
 
-Software / Repository
+**Software / Repository**
 
 Voix, J., van Vugt, F., Pintat, V., Merrett, D., & Dalla Bella, S. (2023). BRAMSBioBox [Software]. GitHub. (Accessed: YYYY-MM-DD). https://github.com//critias-ca/B3
 
