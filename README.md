@@ -71,8 +71,7 @@ The potential research applications for this device are many. For example, in it
 The BRAMSBioBox device design blueprint as well as all code that will be developed will be made available freely on GitHub, and all relevant documentation will be made available at [BioARP website](https://bioarp.org) that is also a gateway hub for any future commercial offer of such open hardware & software platform for the research community.
 
 ## Acknowledgments
-
-This work was supported by the Centre for Research on Brain, Language and Music (CRBLM) through a 2022 Research Incubator Award (RIA) awarded to Prof. Dr van Vugt, Prof. Dalla Bella, and Prof. Voix. The authors would like to thank Mrs. Alexandre Demczuk and Elia Mélé, interns at ÉTS, for their work sponsored by the CRBLM IRA, as well as Mr. Dhairya Shah, intern for Prof. Voix at ÉTS and sponsored by the MITACS Globalink program.
+This work was supported by the Centre for Research on Brain, Language and Music (CRBLM) through a 2022 Research Incubator Award (RIA) to Prof. Dr Floris van Vugt, Prof. Simone Dalla Bella, and Prof. Jérémie Voix. The authors gratefully acknowledge Alexandre Demczuk and Elia Mélé (ÉTS interns) for their contributions supported by the CRBLM RIA, and Dhairya Shah (ÉTS intern) supported by the MITACS Globalink program.
 
 [^1]: Bradley, M. M., & Lang, P. J. (2000). Affective reactions to acoustic stimuli.
 [^2]: Tschacher, W., Rees, G. M., & Ramseyer, F. (2020). Nonverbal synchrony and affect in dyadic interactions.
